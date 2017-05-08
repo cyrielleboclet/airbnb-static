@@ -12,16 +12,16 @@
 
 // Backgrounds
 .bg-text {
-  background: #4a4a4a;
+  background: $gray-lighter;
 }
 .bg-email {
-  background: #aeaeae;
+  background: $gray-lighter;
 }
 .bg-twitter {
-  background: #00a3e1;
+  background: $gray-lighter;
 }
 .bg-facebook {
-  background: #3b5998;
+  background: $gray-lighter;
 }
 
 body {
@@ -41,5 +41,5 @@ h2 {
   padding: 100px 0;
 }
 .wrapper-grey {
-  background: #F4F4F4;
+  background: $gray-lighter;
 }
